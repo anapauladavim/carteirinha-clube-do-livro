@@ -47,3 +47,4 @@ nav a{cursor:pointer}.pageview{min-height:65vh;padding-top:30px}.pageview>p{lett
   .clubRatingTab b{font-size:1.25rem}
   .clubRatingTab em{font-size:.44rem;line-height:1.15}
 }
+.calendarAdd{display:inline-flex;align-items:center;justify-content:center;margin-top:8px;padding:7px 10px;border:1px solid #bca997;border-radius:999px;color:#5d4639;text-decoration:none;font-size:.7rem;font-weight:700;background:#fffaf4;transition:.15s ease}.calendarAdd:hover{background:#4a3027;color:#fff}.meetingCalendarAdd{width:max-content;margin-top:10px}@media(max-width:560px){.calendarAdd{font-size:.66rem;padding:6px 9px}}
